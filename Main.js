@@ -1,1 +1,1 @@
-alert(Asasdsad);
+alert('Asasdsad');
